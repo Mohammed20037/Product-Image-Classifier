@@ -34,12 +34,7 @@ The deep learning model is built using TensorFlow and Keras. The provided Python
 
 Watch the video below for a walkthrough of the code:
 
-
-
-
-[![Code Walkthrough](https://github.com/Mohammed20037/Product-Image-Classifier/assets/113844625/c9107cc2-199c-45fb-8b06-772a8c4b5d53).
-
-
+[![Code Walkthrough](video_thumbnail.png)](https://github.com/Mohammed20037/Product-Image-Classifier/assets/113844625/c9107cc2-199c-45fb-8b06-772a8c4b5d53)
 
 ## Dependencies
 
